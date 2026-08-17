@@ -1,3 +1,9 @@
+<p align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="images/tint-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/tint-light.png">
+  <img alt="Project Logo" src="images/tint-dark.png" width="128">
+</p>
+
 # tint
 
 Opinionated theme loader for Go CLI/TUI projects built on
